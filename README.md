@@ -15,7 +15,7 @@ _A beautiful, responsive real-time digital clock built with modern React concept
 
 <div align="center">
 
-![Live Watch Screenshot](/home/man/Documents/webdev/React/Clock-real-time-reactjs/LiveWatch.png)
+<img src="./LiveWatch.png" alt="Live Watch Screenshot" width="600" />
 
 _Real-time clock application in action_
 
