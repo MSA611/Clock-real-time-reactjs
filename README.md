@@ -15,7 +15,7 @@ _A beautiful, responsive real-time digital clock built with modern React concept
 
 <div align="center">
 
-![Live Watch Screenshot](/home/man/Pictures/ScreenShots/LiveWatch.png)
+![Live Watch Screenshot](/home/man/Documents/webdev/React/Clock-real-time-reactjs/LiveWatch.png)
 
 _Real-time clock application in action_
 
@@ -450,4 +450,3 @@ This project demonstrates mastery of:
 _This project serves as an excellent example of how simple concepts can be implemented using modern React patterns and best practices._
 
 </div>
-
