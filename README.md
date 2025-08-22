@@ -19,9 +19,9 @@ _A beautiful, responsive real-time digital clock built with modern React concept
 
 _Real-time clock application screenshot_
 
-### 🎥 Demo Video
+<!-- ### 🎥 Demo Video -->
 
-<img src="./demo.gif" alt="Live Watch Demo" width="600" />
+<!-- <img src="./demo.gif" alt="Live Watch Demo" width="600" /> -->
 
 _Real-time clock application in action_
 
