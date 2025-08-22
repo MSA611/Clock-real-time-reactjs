@@ -17,6 +17,12 @@ _A beautiful, responsive real-time digital clock built with modern React concept
 
 <img src="./LiveWatch.png" alt="Live Watch Screenshot" width="600" />
 
+_Real-time clock application screenshot_
+
+### 🎥 Demo Video
+
+<img src="./demo.gif" alt="Live Watch Demo" width="600" />
+
 _Real-time clock application in action_
 
 </div>
